@@ -1,0 +1,6 @@
+{
+  "name": "Pakistani Family Home Chef",
+  "description": "Practical Pakistani homestyle recipe creator using only provided ingredients, with step-by-step instructions, cooking times, and optional chef upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
