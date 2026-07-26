@@ -1,20 +1,42 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+ Ghar Ka Khana AI (Ghar Ka Khana - Chef Ammi's Pakistani Kitchen)
+Authentic, practical Pakistani homestyle recipes crafted using ONLY the ingredients in your kitchen.
+🌐 Live Website: https://ghar-ka-khana-ai.vercel.app/
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/fc200765-b197-4920-93e8-61e1a9b98d62
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+📌 Overview
+Ghar Ka Khana AI is an intelligent, AI-powered Pakistani family home chef assistant embodied by Chef Ammi Jan — a loving, expert Pakistani mother who turns whatever is left in your fridge or pantry into delicious, authentic, homestyle salans, karahis, sabzis, and daals.
+Designed specifically to solve the daily dilemma of "Aaj kya paken?" (What should we cook today?), the app prioritizes minimizing extra ingredients, providing step-by-step cooking instructions with realistic prep and cook times, Desi cooking secret techniques (Bhunai, Dum, Tarka), and exactly one optional chef upgrade/improvement to elevate the dish when you have extra spices later.
+✨ Key Features
+1. 🛒 Ingredient-First Recipe Creator
+Zero-Waste Cooking: Input your main ingredients, leftover vegetables, proteins, or pantry staples.
+Strict Ingredient Mode: Restricts the AI strictly to your provided ingredients (plus plain water) — no unlisted spices or oils assumed.
+Pantry Standard Mode: Assumes only basic cooking oil, salt, and standard red chili/turmeric if needed to balance a gravy.
+Custom Focus & Notes: Specify meal preferences such as Quick 15-Minute Meal, Breakfast / Sehri Special, Dry Sabzi, or custom requests like "mild spice for kids".
+2. 👩‍🍳 Chef Ammi Persona & Desi Technique Guidance
+Every recipe features a warm, comforting note from Chef Ammi explaining why the dish works.
+Step-by-step instructions highlight authentic techniques such as Bhunai (sautéing until oil separates/tari appears), Dum (low-heat steam cooking), and Tarka (oil tempering).
+3. ⏱️ Interactive Step-by-Step Cooking Mode
+Fullscreen distraction-free cooking interface designed for use in the kitchen.
+Built-in step timers for precision simmering and frying.
+Progress tracking and celebratory Shabash! completion screens.
+4. 📖 Classic Minimalist Pakistani Presets
+Instant access to classic homestyle recipes requiring only 3–5 ingredients:
+Anda Pyaz Khagina (Desi Scrambled Eggs)
+Aloo Zeera Fry (Crispy Cumin Potatoes)
+Kali Mirch Chicken Handi (White Black Pepper Chicken)
+Moong Daal Tarka Fry (Yellow Lentil Curry)
+Aloo Palak Dhabba Style (Spinach & Potato Curry)
+5. 💡 Chef Ammi Kitchen Helpline (AI Assistant)
+Real-time cooking hotline for instant fixes:
+Fixing oversalted curries without ruining flavor
+Thickening gravy without cream or nuts
+Emergency substitutes for tomatoes or yogurt
+Achieving rich Tari (oil float) on low heat
+6. 📘 Pakistani Culinary Glossary & Secrets
+Educational guide breaking down essential Roman Urdu culinary terms (Bhunno, Dum, Tarka, Tari, Kasuri Methi Dum, Ghulna).
+7. 🔖 Local Family Recipe Book (Bookmarks)
+Save and bookmark favorite custom recipes locally in your browser for instant retrieval anytime.
+🛠️ Technology Stack
+Frontend: React 19, TypeScript, Tailwind CSS v4, Lucide React Icons
+Backend Framework: Node.js, Express, tsx
+Build System: Vite, esbuild
+AI Engine: Google Gemini API (@google/genai SDK with gemini-3.6-flash model and structured JSON outputs)
