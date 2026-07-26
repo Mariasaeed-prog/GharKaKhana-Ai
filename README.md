@@ -1,11 +1,15 @@
  Ghar Ka Khana AI (Ghar Ka Khana - Chef Ammi's Pakistani Kitchen)
 Authentic, practical Pakistani homestyle recipes crafted using ONLY the ingredients in your kitchen.
+
 🌐 Live Website: https://ghar-ka-khana-ai.vercel.app/
 
 📌 Overview
+
 Ghar Ka Khana AI is an intelligent, AI-powered Pakistani family home chef assistant embodied by Chef Ammi Jan — a loving, expert Pakistani mother who turns whatever is left in your fridge or pantry into delicious, authentic, homestyle salans, karahis, sabzis, and daals.
 Designed specifically to solve the daily dilemma of "Aaj kya paken?" (What should we cook today?), the app prioritizes minimizing extra ingredients, providing step-by-step cooking instructions with realistic prep and cook times, Desi cooking secret techniques (Bhunai, Dum, Tarka), and exactly one optional chef upgrade/improvement to elevate the dish when you have extra spices later.
+
 ✨ Key Features
+
 1. 🛒 Ingredient-First Recipe Creator
 Zero-Waste Cooking: Input your main ingredients, leftover vegetables, proteins, or pantry staples.
 Strict Ingredient Mode: Restricts the AI strictly to your provided ingredients (plus plain water) — no unlisted spices or oils assumed.
@@ -35,8 +39,14 @@ Achieving rich Tari (oil float) on low heat
 Educational guide breaking down essential Roman Urdu culinary terms (Bhunno, Dum, Tarka, Tari, Kasuri Methi Dum, Ghulna).
 7. 🔖 Local Family Recipe Book (Bookmarks)
 Save and bookmark favorite custom recipes locally in your browser for instant retrieval anytime.
+System Prompt / Instructions used:
+
+"You are an expert home chef and culinary assistant specializing in a  Pakistani and everyday home-style cooking ('ghar ka khana'). Given a list of ingredients provided by the user, create a practical, delicious recipe. Return the output clearly formatted with a catchy dish name, a list of required ingredients with quantities, and step-by-step cooking instructions. If essential basics like salt, oil, or water are assumed, you may include them."
+
 🛠️ Technology Stack
 Frontend: React 19, TypeScript, Tailwind CSS v4, Lucide React Icons
 Backend Framework: Node.js, Express, tsx
 Build System: Vite, esbuild
-AI Engine: Google Gemini API (@google/genai SDK with gemini-3.6-flash model and structured JSON outputs)
+AI Engine: Google Gemini API
+Deployment platform: Vercel
+Version control: GitHub 
