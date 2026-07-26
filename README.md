@@ -39,11 +39,13 @@ Achieving rich Tari (oil float) on low heat
 Educational guide breaking down essential Roman Urdu culinary terms (Bhunno, Dum, Tarka, Tari, Kasuri Methi Dum, Ghulna).
 7. 🔖 Local Family Recipe Book (Bookmarks)
 Save and bookmark favorite custom recipes locally in your browser for instant retrieval anytime.
+
 System Prompt / Instructions used:
 
 "You are an expert home chef and culinary assistant specializing in a  Pakistani and everyday home-style cooking ('ghar ka khana'). Given a list of ingredients provided by the user, create a practical, delicious recipe. Return the output clearly formatted with a catchy dish name, a list of required ingredients with quantities, and step-by-step cooking instructions. If essential basics like salt, oil, or water are assumed, you may include them."
 
 🛠️ Technology Stack
+
 Frontend: React 19, TypeScript, Tailwind CSS v4, Lucide React Icons
 Backend Framework: Node.js, Express, tsx
 Build System: Vite, esbuild
