@@ -41,7 +41,7 @@ Educational guide breaking down essential Roman Urdu culinary terms (Bhunno, Dum
 Save and bookmark favorite custom recipes locally in your browser for instant retrieval anytime.
 ![image](https://github.com/Mariasaeed-prog/GharKaKhana-Ai/blob/9169b5c2e0ddc2318fcac42c009294d34ffebc24/IMG_20260726_103607.jpg)
 
-
+![image](https://github.com/Mariasaeed-prog/GharKaKhana-Ai/blob/c263dd9f2b81ee7bfc23cc8343d7f5caf75a1f8f/IMG_20260726_103629.jpg)
 
 System Prompt / Instructions used:
 
