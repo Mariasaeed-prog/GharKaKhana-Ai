@@ -39,7 +39,7 @@ Achieving rich Tari (oil float) on low heat
 Educational guide breaking down essential Roman Urdu culinary terms (Bhunno, Dum, Tarka, Tari, Kasuri Methi Dum, Ghulna).
 7. 🔖 Local Family Recipe Book (Bookmarks)
 Save and bookmark favorite custom recipes locally in your browser for instant retrieval anytime.
-![App Screenshot] (./IMG_20260726_103607.jpg) 
+![image](https://github.com/Mariasaeed-prog/GharKaKhana-Ai/blob/9169b5c2e0ddc2318fcac42c009294d34ffebc24/IMG_20260726_103607.jpg)
 
 
 
