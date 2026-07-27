@@ -71,12 +71,18 @@ Features Planned for Future Deployment:
 Create Practical Recipes with Chef Ammi:
 
  What it does: Allows users to select available kitchen ingredients and generate custom recipes. 
-   Current status:  The UI is fully built and ingredient selection is active, but the generation button is temporarily disabled due to API quota restrictions in the live environment.
+ 
+   Current status:
+   
+The UI is fully built and ingredient selection is active, but the generation button is temporarily disabled due to API quota restrictions in the live environment.
    
 Ask Ammi (Chef Ammi's Kitchen
  Helpline):
 
   What it does: An interactive chatbot helpline to answer immediate cooking queries.
-   Current status:  Awaiting stable API key deployment for live production.
+  
+   Current status:
+   
+Awaiting stable API key deployment for live production.
 
 Note: The complete source code and logic for these features are fully implemented in the repository and operate successfully in local development environments.
